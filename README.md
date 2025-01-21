@@ -2,7 +2,7 @@
 
 Welcome to the Bookshop Analysis Dashboard project! This repository contains a Tableau dashboard designed to help bookshops analyze their sales data, track key performance metrics, and gain insights into customer behavior.
 
-## Getting Started
+## Getting Started:
 
 To get started with the Bookshop Analysis Dashboard, follow these steps:
 
